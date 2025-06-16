@@ -38,13 +38,13 @@ The thesis also explores how these dynamics vary by department, and interacts wi
 ##  Full Document
 
 The complete thesis (written in Spanish) is available here:  
- `Thesis-Original version in Spanish.pdf`
+ `outcome/Thesis-Original version in Spanish.pdf`
 
 ---
 ##  Presentation
 
 A short presentation (in English) is available here:
- `Ethnic discrimination in Colombia - Laura Pacin.pdf`
+ `outcome/Ethnic discrimination in Colombia - Laura Pacin.pdf`
  
 ---
 
