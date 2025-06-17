@@ -47,6 +47,12 @@ A short presentation (in English) is available here:
  `outcome/Ethnic discrimination in Colombia - Laura Pacin.pdf`
  
 ---
+##  Codes
+
+- The data cleaning and regressions were made with Stata and the code is available in the folder `/scripts`
+- Graphs locating producers by ethnicity in each department and barr-graphs indicating preferences in the ethnicity of workers for every level of education were made with Python and the code is available in the main under the name of `Graphs_thesis-ipynb`
+ 
+---
 
 ##  Keywords
 
